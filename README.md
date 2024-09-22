@@ -41,7 +41,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `Runnig on development server`
 
-    ```bash
     1. Add backend server as proxy in package.json file
     2. "proxy": "http://localhost:4000"
 
